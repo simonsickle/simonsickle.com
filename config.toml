@@ -67,8 +67,3 @@ type = "application/rss+xml"
 name = "Projects"
 weight = 3
 url = "https://github.com/simonsickle/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
